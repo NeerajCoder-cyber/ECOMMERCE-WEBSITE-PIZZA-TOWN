@@ -4,3 +4,6 @@ index.html
 public
 pizza-img
 project.docx
+npm-debug.log
+.DS_Store
+/*.env
